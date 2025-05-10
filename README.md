@@ -16,7 +16,7 @@ Features
 How to Use
 ----------
 1. **Add a TextMeshPro component** to your GameObject (UI or 3D).
-2. **Attach the `TextProOnCurves` script** to the same GameObject.
+2. **Attach the `CurvedTextMeshPro` script** to the same GameObject.
 3. In the Inspector, you will see the **Arc Degrees** slider:
    - Set to `0` for flat (normal) text.
    - Increase the value to curve the text into an arc.
